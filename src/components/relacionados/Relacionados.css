@@ -1,0 +1,21 @@
+.relacionados{
+  display: none;
+  padding: 1vw;
+  height: 90%;
+}
+
+.github{
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+@media (min-width: 768px){
+  .relacionados{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+}

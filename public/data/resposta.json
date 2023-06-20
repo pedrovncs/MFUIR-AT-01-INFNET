@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nomeUser": "Autor 1",
+    "data": "19/06/2023",
+    "qtdLikes": 10,
+    "mensagem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquet, eros id auctor porttitor, magna lacus tempor ligula, vel ullamcorper ex nunc a mauris. Nullam ut consequat lacus. Integer a aliquet purus. Fusce et ex malesuada, tempor turpis quis, vehicula lacus. "
+  },
+  {
+    "id": 2,
+    "nomeUser": "Autor 2",
+    "data": "20/06/2023",
+    "qtdLikes": 5,
+    "mensagem": "Nulla quis turpis id libero vulputate fermentum. Proin gravida rutrum diam, et efficitur neque. Aliquam congue consequat nunc, sit amet dictum ex. "
+  },
+  {
+    "id": 3,
+    "nomeUser": "Autor 3",
+    "data": "21/06/2023",
+    "qtdLikes": 15,
+    "mensagem": "Praesent consectetur gravida neque, non posuere nisi tristique sed. Integer maximus sem nec purus commodo, in scelerisque justo bibendum. Sed consequat sapien mi, ut iaculis neque lobortis vel. Cras vel est rhoncus, venenatis arcu eu, rutrum nisl. Morbi eget cursus est. Integer aliquam magna non purus maximus cursus. Mauris commodo scelerisque varius. Sed ultrices dolor ut purus varius, eget interdum turpis laoreet. "
+  },
+  {
+    "id": 4,
+    "nomeUser": "Autor 4",
+    "data": "22/06/2023",
+    "qtdLikes": 8,
+    "mensagem": "Aliquam nec facilisis felis, at condimentum lectus. Vestibulum pretium tristique interdum. Morbi rhoncus dapibus mi ut ultrices. Duis feugiat vestibulum lectus, non suscipit ante accumsan vitae. Nam quis eleifend eros, at ultricies turpis."
+  },
+  {
+    "id": 5,
+    "nomeUser": "Autor 5",
+    "data": "23/06/2023",
+    "qtdLikes": 12,
+    "mensagem": "Maecenas blandit tellus lacus, eget feugiat sapien ultrices et. Sed fermentum sem id turpis efficitur malesuada. Cras et ex ut est finibus ultrices. Ut dignissim risus id libero auctor, id dictum turpis cursus. Sed semper ex sit amet nisl vestibulum, vitae consequat purus rutrum. Etiam posuere neque vel tellus ultrices, non tempor arcu lobortis. Aliquam laoreet rutrum mi, et eleifend ex euismod ut. "
+  }
+]

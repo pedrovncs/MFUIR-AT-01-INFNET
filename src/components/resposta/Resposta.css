@@ -1,0 +1,20 @@
+.resposta{
+  display: flex;
+  flex-direction: column;
+  background-color: #F1EFEF;
+  border-radius: 10px;
+  padding: 1vw;
+  width: 100%;
+}
+
+.usuarioResposta{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.resposta-content{
+  display: flex;
+  flex-direction: column;
+  padding: 2vw;
+}
