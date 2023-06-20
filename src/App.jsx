@@ -1,4 +1,4 @@
-import './App.css'
+import styles from './App.module.css'
 import topico from '../public/data/topico.json'
 import resp from '../public/data/resposta.json'
 
@@ -15,7 +15,7 @@ export default function App() {
   return (
     <main>
       <Navbar />
-      <div className='main-content'>
+      <div className={styles["main-content"]}>
         <Topico infoTopico={topico}/>
         <Form user='Pedro' />
         <Resposta infoResp={resp[random()]} />

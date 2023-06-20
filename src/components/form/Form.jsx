@@ -1,4 +1,4 @@
-import './Form.css';
+import styles from './Form.module.css';
 
 export default function Form({user}){
   const handleSubmit = (event) =>{
@@ -6,8 +6,8 @@ export default function Form({user}){
   }
   
   return(
-    <div className='inputForm'>
-      <div className='userAutenticado'>
+    <div className={styles.inputForm}>
+      <div className={styles.userAutenticado}>
         <img src='./src/components/shared/assets/profile.svg' alt={user} title={user} />
         <h3>{user}</h3>
       </div>

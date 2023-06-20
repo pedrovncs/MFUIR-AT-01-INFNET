@@ -1,4 +1,4 @@
-import './Marcador.css';
+import styles from './Marcador.module.css';
 
 export default function Marcador({tipo, qtd}) {
   return(
