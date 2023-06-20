@@ -1,11 +1,10 @@
 .relacionados{
   display: none;
   padding: 1vw;
-  height: 90%;
+  height: 95%;
 }
 
 .github{
-  margin: auto;
   display: flex;
   flex-direction: column;
   align-items: center;

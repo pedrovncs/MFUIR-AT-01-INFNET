@@ -8,9 +8,10 @@ export default function Relacionados(){
       <RelTopico tipo='curtida' titulo1='Mais Curtido 1' titulo2=' Mais Curtido 2' titulo3=' Mais Curtido 3' />
       <RelTopico tipo='resposta' titulo1='Mais Comentado 1' titulo2='Mais comentado 2' titulo3='Mais comentado 3' />
       <div className='github'>
-        <a>Github @pedrovncs</a>
-        <img href='' src='./src/components/relacionados/assets/github.svg' alt='Github' title='pedrovncs'/>
-        
+        <a href='https://github.com/pedrovncs/MFUIR-AT-01-INFNET'>Github @pedrovncs</a>
+        <a href='https://github.com/pedrovncs/MFUIR-AT-01-INFNET'>
+                <img src='./src/components/relacionados/assets/github.svg' alt='Github' title='pedrovncs'/>
+        </a>
       </div>
     </div>
   )
